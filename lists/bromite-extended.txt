@@ -12,7 +12,6 @@ https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralis
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
-https://filters.adtidy.org/extension/ublock/filters/14.txt
 
 # Other uBlock Origin filters
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
@@ -25,15 +24,15 @@ https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_dis
 https://fanboy.co.nz/fanboy-antifonts.txt
 
 # Adguard
-https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt
-https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
-https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
-https://filters.adtidy.org/extension/ublock/filters/4_optimized.txt
-https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt
+https://filters.adtidy.org/android/filters/2_optimized.txt
+https://filters.adtidy.org/android/filters/11_optimized.txt
+https://filters.adtidy.org/android/filters/3_optimized.txt
+https://filters.adtidy.org/android/filters/4_optimized.txt
+https://filters.adtidy.org/android/filters/14_optimized.txt
+https://easylist-downloads.adblockplus.org/fanboy-social.txt
 https://secure.fanboy.co.nz/enhancedstats.txt
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 https://i-dont-care-about-cookies.eu/abp/
 https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/social-plus.txt
 https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/tracking-plus.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ExtremelyCondensedList.txt
-https://hostfiles.frogeye.fr/firstparty-trackers.txt
